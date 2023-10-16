@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url('images/beach.jpg');
+  background-size: cover;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+  background-color: #d1bbda;
+}
+
+nav {
+  padding: 1rem;
+  padding-left: 2.5em;
+  padding-right: 1rem;
+  background: #ECE3F0;
+}
+
+h1 {
+  font-size: 7em;
+  color: #EFE7D3;
+}
+
+a {
+  color: black;
+}
+
+.info {
+  padding: .75em;
+  background-color: #ECE3F0;
+  width: 100%;
+  color: black;
+}
+
+footer {
+  padding: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background: #ECE3F0;
+}
