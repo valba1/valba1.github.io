@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Contact</title>
-  <link href="aboutMe.css" rel="stylesheet" type="text/css" />
-</head>
-
-<body>
   <nav>
     <a href=./index.html>Home</a>
     <a href=./experience.html>Experience</a>
@@ -30,8 +19,3 @@
     <a href="mailto: vivianaalba7@gmail.com? subject= Inquiry" target="blank"><img src=./images/email.png height=35em
         style=></a>
   </footer>
-
-  <script src="aboutMe.js"></script>
-</body>
-
-</html>

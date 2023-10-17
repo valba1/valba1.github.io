@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>replit</title>
-  <link href="experience.css" rel="stylesheet" type="text/css" />
-</head>
-
-<body>
   <nav>
     <a href=./index.html>Home</a>
     <a href=./experience.html>Experience</a>
@@ -34,9 +23,3 @@
     <a href="mailto: vivianaalba7@gmail.com? subject= Inquiry" target="blank"><img src=./images/email.png height=35em
         style=></a>
   </footer>
-
-
-  <script src="script.js"></script>
-</body>
-
-</html>
